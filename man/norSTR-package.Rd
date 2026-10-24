@@ -4,9 +4,9 @@
 \name{norSTR-package}
 \alias{norSTR}
 \alias{norSTR-package}
-\title{norSTR: Allele frequencies for 50 forensic STR markers}
+\title{norSTR: Forensic STR Map and Allele Frequencies}
 \description{
-Allele frequency databases for 50 forensic short tandem repeat (STR) markers, covering Norway and several broader regional populations: Europe, Africa, South America, West Asia, Middle Asia, and East Asia. Developed and maintained for use at the Department of Forensic Sciences, Oslo, Norway.
+A marker map for 51 forensic short tandem repeat (STR) markers, and allele frequency databases for Norway and several broader regional populations: Europe, Africa, South America, West Asia, Middle Asia, and East Asia. Developed and maintained for use at the Department of Forensic Sciences, Oslo, Norway.
 }
 \seealso{
 Useful links:
@@ -18,6 +18,11 @@ Useful links:
 }
 \author{
 \strong{Maintainer}: Magnus Dehli Vigeland \email{m.d.vigeland@medisin.uio.no} (\href{https://orcid.org/0000-0002-9134-4962}{ORCID})
+
+Authors:
+\itemize{
+  \item Magnus Dehli Vigeland \email{m.d.vigeland@medisin.uio.no} (\href{https://orcid.org/0000-0002-9134-4962}{ORCID})
+}
 
 }
 \keyword{internal}

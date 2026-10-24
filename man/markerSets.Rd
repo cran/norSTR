@@ -5,28 +5,28 @@
 \alias{markerSets}
 \title{Common STR marker sets}
 \format{
-A named list of 6 character vectors of marker names.
+A named list of 7 character vectors of marker names.
 }
 \usage{
 markerSets
 }
 \description{
-Lists of autosomal STR markers included in widely-used commercial forensic
-kits. Sex-determining (e.g. Amelogenin) and non-autosomal markers (e.g. Y
-markers) are explicitly omitted.
+Lists of autosomal STR markers included in selected forensic kits and panels.
+Sex-determining (e.g. Amelogenin) and non-autosomal markers (e.g. Y markers) are
+explicitly omitted.
 }
 \details{
 Kits included:
 \itemize{
 \item \code{codis}: Expanded CODIS core loci (FBI/NIST), 21 autosomal STR markers.
 \item \code{fusion6c}: PowerPlex® Fusion 6C (Promega), 23 autosomal markers.
-\item \code{globalfiler}: GlobalFiler™ PCR Amplification Kit (Applied Biosystems),
-21 autosomal markers.
+\item \code{globalfiler}: GlobalFiler™ PCR Amplification Kit (Applied Biosystems), 21 autosomal
+markers.
 \item \code{hdplex}: HDplex STR Kit (Qiagen), 9 autosomal markers.
-\item \code{sureid}: SureID® 23comp Human STR Identification Kit (Health Gene
-Technologies), 23 autosomal markers.
-\item \code{sureid27}: Combined SureID® 23comp and SureID® PathFinder Plus; 26
-autosomal markers.
+\item \code{phoenix}: 3 autosomal markers (D11S554, APOC3, D17S906).
+\item \code{sureid}: SureID® 23comp Human STR Identification Kit (Health Gene Technologies),
+23 autosomal markers.
+\item \code{sureid27}: Combined SureID® 23comp and SureID® PathFinder Plus, 26 autosomal markers.
 }
 }
 \examples{
